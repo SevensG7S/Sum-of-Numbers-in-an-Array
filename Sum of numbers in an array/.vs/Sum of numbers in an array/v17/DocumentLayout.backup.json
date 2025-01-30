@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serge\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Code\\Sum of numbers in an array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE85C4D-ECB4-449A-8786-01CED3664DA8}|Sum of numbers in an array\\Sum of numbers in an array.csproj|c:\\users\\serge\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\code\\sum of numbers in an array\\sum of numbers in an array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE85C4D-ECB4-449A-8786-01CED3664DA8}|Sum of numbers in an array\\Sum of numbers in an array.csproj|solutionrelative:sum of numbers in an array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\serge\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Code\\Sum of numbers in an array\\Sum of numbers in an array\\Program.cs",
+              "RelativeDocumentMoniker": "Sum of numbers in an array\\Program.cs",
+              "ToolTip": "C:\\Users\\serge\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Code\\Sum of numbers in an array\\Sum of numbers in an array\\Program.cs",
+              "RelativeToolTip": "Sum of numbers in an array\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T20:40:25.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
